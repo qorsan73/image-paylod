@@ -43,8 +43,10 @@ echo -e "\033[1;31m@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 echo -e "tool coded by qorsan taiz 
-$ \033[1;31m[whatsapp +967737572399]
-$ \033[1;34m[telegram: @qorsantaez73]"
+\033[1;32m$ [whatsapp: +967737572399]
+\033[1;34m$ [telegram: @qorsantaez73]
+\033[1;35m$ [Github:https: //github.com/qorsan73]
+\033[1;33m$ [YouTube:https: //youtube.com/@hacking-world] "
 sudo apt-get install steghide
 read -p "[*] image path~#: " image
 read -p "[*] payload path~# " payload
