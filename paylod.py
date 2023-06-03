@@ -1,3 +1,4 @@
+clear
 import os
 try :
     import pyfiglet
