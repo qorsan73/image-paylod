@@ -1,4 +1,3 @@
-clear
 import os
 try :
     import pyfiglet
@@ -14,7 +13,7 @@ C = '\033[2;35m'
 
 logo = pyfiglet.figlet_format('             Qorsan ')
 print(Z+logo)
-print(+967737572399)
+print("whatsapp:"+967737572399)
 print("\n\033[1;33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
 print("Select operation:")
 print("1. on the tool")
