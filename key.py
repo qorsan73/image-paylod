@@ -31,8 +31,7 @@ aldobaei = ()
 
 if degree ==  1:
     print()
-    print(qorsan)
-    os.system("clear")
+    os.system(qorsan)
 elif degree ==   2:
     print()
     print(taiz)
