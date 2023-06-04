@@ -102,4 +102,4 @@ echo -e '\033[1;92mqorsan is launching......'
 sleep 1.1
 chmod +x *
 clear
-bash pig.sh
+python key.py
