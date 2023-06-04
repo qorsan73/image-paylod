@@ -34,8 +34,7 @@ if degree ==  1:
     os.system(qorsan)
 elif degree ==   2:
     print()
-    print(taiz)
-    os.system("clear")
+    os.system(taiz)
 elif degree == 3:
     print(mostafa)
 elif degree == 4:
