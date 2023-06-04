@@ -30,9 +30,19 @@ mostafa = ()
 aldobaei = ()
 
 if degree ==  1:
+    print()
     print(qorsan)
+    os.system("clear")
+    banr()
+        main()
+        exit()
 elif degree ==   2:
+    print()
     print(taiz)
+    os.system("clear")
+    banr()
+        main()
+        exit()
 elif degree == 3:
     print(mostafa)
 elif degree == 4:
