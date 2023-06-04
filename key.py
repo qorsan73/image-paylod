@@ -36,7 +36,7 @@ elif degree ==   2:
     print()
     os.system(taiz)
 elif degree == 3:
-    print(mostafa)
+    os.system("xdg-open https://youtube.com/@hacking-world> /dev/null")
 elif degree == 4:
     print(aldobaei)
 else:
