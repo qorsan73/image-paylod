@@ -22,9 +22,9 @@ print("3. my youtube ")
 print("4. my telegram")
 degree = int (input("Enter operation number (1): "))
 
-qorsan = 'bash pig.sh'
+qorsan = ('bash pig.sh')
 
-taiz = "bash APK.sh"
+taiz = ("bash APK.sh")
 
 mostafa = ()
 aldobaei = ()
@@ -37,9 +37,6 @@ elif degree ==   2:
     print()
     print(taiz)
     os.system("clear")
-    banr()
-        main()
-        exit()
 elif degree == 3:
     print(mostafa)
 elif degree == 4:
