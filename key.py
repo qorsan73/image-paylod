@@ -21,7 +21,7 @@ print("1. paylod image")
 print("2. paylod APK")
 print("3. my youtube ")
 print("4. my telegram")
-degree = int (input("Enter operation number (1): "))
+degree = int (input("Enter operation number (1-4): "))
 
 qorsan = ('bash pig.sh')
 
