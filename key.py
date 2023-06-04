@@ -1,5 +1,5 @@
-"by qorsan taiz
-https://github.com/qorsan73"
+"by qorsan taiz"
+"https://github.com/qorsan73"
 
 import os
 try :
