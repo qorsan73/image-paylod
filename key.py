@@ -3,6 +3,7 @@ try :
     import pyfiglet
     import requests
 except:
+    os.system("clear")
     os.system('pip3 install pyfiglet')
     os.system('pip3 install requests')    
 Z =  '\033[1;31m' 
@@ -38,6 +39,6 @@ elif degree ==   2:
 elif degree == 3:
     os.system("xdg-open https://youtube.com/@hacking-world> /dev/null")
 elif degree == 4:
-    print(aldobaei)
+    os.system("xdg-open https://t.me/qorsantaez73/dev/null")
 else:
     print("Invalid input!")
