@@ -1,3 +1,6 @@
+"by qorsan taiz
+https://github.com/qorsan73"
+
 import os
 try :
     import pyfiglet
@@ -14,7 +17,9 @@ C = '\033[2;35m'
 
 logo = pyfiglet.figlet_format('             Qorsan ')
 print(Z+logo)
-print('my namber', +967737572399)
+print('my namber:', +967737572399)
+print('github:' ,https://github.com/qorsan73)
+print('by:' ,qorsan taiz)
 print("\n\033[1;33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
 print("Select operation:")
 print("1. paylod image")
