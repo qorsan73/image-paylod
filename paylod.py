@@ -1,3 +1,5 @@
+import pyfiglet
+import pkg_resources
 import os
 try :
     import pyfiglet
