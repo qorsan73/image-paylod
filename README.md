@@ -14,7 +14,7 @@ Tested on termux
 # note
 Works best on kali linux
 # Instructions:
-* pkg install paython
+* pkg install python
 
 * pkg install bash
 
