@@ -36,8 +36,8 @@ A- Type the path of the image to be injected
 B- Write down the payload you got from metasploit
 
 c- press enter
+![٢٠٢٣٠٦٠٥_٠٤٣٤٤١](https://github.com/qorsan73/image-paylod/assets/99475446/4dbef4ed-5b9e-452d-86ed-6d4918e68a15)
 
-![Screenshot_٢٠٢٣٠٦٠٥-٠٠٤٩١٦](https://github.com/qorsan73/image-paylod/assets/99475446/0e3c165b-c64d-4c9e-8d4a-d41c53814d22)
 
 # 2-paylod APK
 A- Type the path of the APK to be injected
