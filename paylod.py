@@ -1,4 +1,4 @@
-import ("clear")
+("clear")
 import pyfiglet
 import pkg_resources
 import os
