@@ -3,6 +3,7 @@ import pyfiglet
 import pkg_resources
 import os
 try :
+    os.system("clear")
     import pyfiglet
     import requests
 except:
