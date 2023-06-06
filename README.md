@@ -14,6 +14,14 @@ Tested on termux
 # note
 Works best on kali linux
 # Instructions:
+* apt update && apt upgrade -y
+
+* pkg install python2 nmap -y
+
+* pip2 install requests 
+
+* pip2 install colorama 
+
 * pkg install python
 
 * pkg install bash
@@ -24,7 +32,7 @@ Works best on kali linux
 
 * cd image-paylod
 
-* python paylod.py
+* bash run.sh
 
 Press the number (1)
 
