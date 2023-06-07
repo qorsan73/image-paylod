@@ -34,7 +34,9 @@ Works best on kali linux
 
 * bash run.sh
 
-Press the number (1)
+# note 
+This tool works for 24 hours only, and then you have to subscribe for only $10. To subscribe, contact the developer 
+whatsapp/ +967737572399
 
 # photo
 
