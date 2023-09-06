@@ -12,7 +12,6 @@ def dan(y=0,m=0,d=0):
       if date.day < d:
        return True
 x = dan(2023,6,8)
-     #هنا تخلي تاريخ الايقاف
 if x:pass
 else:quit(' Bad TM STOB !!!')
 print(" God \n Tele : @qorsantaez73")
