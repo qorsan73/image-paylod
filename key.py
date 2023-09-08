@@ -39,15 +39,16 @@ print("\n\033[1;33m━━━━━━━━━━━━━━━━━━━━�
 print("Select operation:")
 print("1. paylod image")
 print("2. paylod APK")
-print("3. my youtube ")
-print("4. my telegram")
+print("3. paylod Audie")
+print("4. my youtube ")
+print("5. my telegram")
 degree = int (input("Enter operation number (1-4): "))
 
 qorsan = ('bash pig.sh')
 
 taiz = ("bash APK.sh")
 
-mostafa = ()
+mostafa = ("cd Audie")
 aldobaei = ()
 
 if degree ==  1:
@@ -57,8 +58,11 @@ elif degree ==   2:
     print()
     os.system(taiz)
 elif degree == 3:
-    os.system("xdg-open https://youtube.com/@hacking-world> /dev/null")
+    print()
+    os.system(mostafa)
 elif degree == 4:
+    os.system("xdg-open https://youtube.com/@hacking-world> /dev/null")
+elif degree == 5:
     os.system("xdg-open https://t.me/qorsantaez73/dev/null")
 else:
     print("Invalid input!")
