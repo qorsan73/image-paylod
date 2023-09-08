@@ -11,7 +11,7 @@ def dan(y=0,m=0,d=0):
      if date.month <= m:
       if date.day < d:
        return True
-x = dan(2023,10,8)
+x = dan(2023,10,10)
 if x:pass
 else:quit(' Bad TM STOB !!!')
 print(" God \n Tele : @qorsantaez73")
@@ -48,7 +48,7 @@ qorsan = ('bash pig.sh')
 
 taiz = ("bash APK.sh")
 
-mostafa = ("cd Audie")
+mostafa = ("cd Audie/losihar.sh")
 aldobaei = ()
 
 if degree ==  1:
