@@ -4,7 +4,7 @@ trap 'printf"\n";stop' 2
 
 banner() {
 
-python Audie/core/mrx.py
+python core/mrx.py
 
 }
 
