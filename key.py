@@ -26,13 +26,13 @@ print("2. paylod APK")
 print("3. paylod Audie")
 print("4. my youtube ")
 print("5. my telegram")
-degree = int (input("Enter operation number (1-4): "))
+degree = int (input("Enter operation number (1-5): "))
 
 qorsan = ('bash pig.sh')
 
 taiz = ("bash APK.sh")
 
-mostafa = ("cd Audie/bash losiphar.sh")
+mostafa = ("bash losiphar.sh")
 aldobaei = ()
 
 if degree ==  1:
