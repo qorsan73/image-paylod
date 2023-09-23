@@ -1,9 +1,8 @@
 #by qorsan taiz
 #"https://github.com/qorsan73"
 import os
-    os.system('pip install pyfiglet')  
-    import pyfiglet
-    import requests
+import pyfiglet
+import requests
     os.system("clear")
 Z =  '\033[1;31m' 
 F = '\033[2;32m' 
@@ -11,7 +10,7 @@ B = '\033[2;36m'
 X = '\033[1;33m' 
 C = '\033[2;35m'
 
-logo = ('             Qorsan ')
+logo = pyfiglet.figlet_format('             Qorsan ')
 print(Z+logo)
 print('my namber:', +967737572399)
 print('github:' ,"https://github.com/qorsan73")
