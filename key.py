@@ -8,6 +8,9 @@ except:
     os.system("clear")
     os.system('pip3 install pyfiglet')
     os.system('pip3 install requests')    
+    import pyfiglet
+    import requests
+    os.system("clear")
 Z =  '\033[1;31m' 
 F = '\033[2;32m' 
 B = '\033[2;36m'
