@@ -1,8 +1,10 @@
 #by qorsan taiz
 #"https://github.com/qorsan73"
 import os
-import pyfiglet
-import requests
+try :
+    import pyfiglet
+    import requests
+except:
     os.system("clear")
 Z =  '\033[1;31m' 
 F = '\033[2;32m' 
