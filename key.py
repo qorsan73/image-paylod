@@ -32,7 +32,7 @@ qorsan = ('bash pig.sh')
 
 taiz = ("bash APK.sh")
 
-mostafa = ("cd Audie/losiphar.sh")
+mostafa = ("losiphar.sh")
 aldobaei = ()
 
 if degree ==  1:
