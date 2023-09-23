@@ -1,4 +1,4 @@
-import time
+مimport time
 import sys
 
 def  delay_print(s):
