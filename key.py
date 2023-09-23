@@ -1,21 +1,5 @@
 #by qorsan taiz
 #"https://github.com/qorsan73"
-from datetime import *
-
-def dan(y=0,m=0,d=0):
- date = datetime.now()
- if len(list(str(y))) == 4:
-  if m <= 12 and m > 0:
-   if d <= 31 and d > 0:
-    if date.year <= y:
-     if date.month <= m:
-      if date.day < d:
-       return True
-x = dan(2024,10,10)
-if x:pass
-else:quit(' Bad TM STOB !!!')
-print(" God \n Tele : @qorsantaez73")
-
 import os
 try :
     import pyfiglet
