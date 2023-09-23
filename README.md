@@ -43,10 +43,6 @@ Works best on kali linux
 
 * bash run.sh
 
-# note 
-This tool works for 24 hours only, and then you have to subscribe for only $10. To subscribe, contact the developer 
-whatsapp/ +967737572399
-
 # photo
 
 # 1- paylod image
