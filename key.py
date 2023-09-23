@@ -1,13 +1,7 @@
 #by qorsan taiz
 #"https://github.com/qorsan73"
 import os
-try :
-    import pyfiglet
-    import requests
-except:
-    os.system("clear")
-    os.system('pip3 install pyfiglet')
-    os.system('pip3 install requests')    
+    os.system('pip3 install pyfiglet')  
     import pyfiglet
     import requests
     os.system("clear")
