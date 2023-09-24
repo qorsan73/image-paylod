@@ -11,7 +11,7 @@ B = '\033[2;36m'
 X = '\033[1;33m' 
 C = '\033[2;35m'
 
-print(QORSAN TAIZ)
+print('QORSAN TAIZ')
 print('my namber:', +967737572399)
 print('github:' ,"https://github.com/qorsan73")
 print('by:' ,"qorsan taiz")
