@@ -4,12 +4,13 @@ import os
 try :
     import requests
 except:
-    os.system("clear")
 Z =  '\033[1;31m' 
 F = '\033[2;32m' 
 B = '\033[2;36m'
 X = '\033[1;33m' 
 C = '\033[2;35m'
+
+os.system('clear')
 
 print('QORSAN TAIZ')
 print('my namber:', +967737572399)
