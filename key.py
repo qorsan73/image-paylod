@@ -1,9 +1,8 @@
 #by qorsan taiz
 #"https://github.com/qorsan73"
 import os
-try :
-    import requests
-except:
+import requests
+    
 Z =  '\033[1;31m' 
 F = '\033[2;32m' 
 B = '\033[2;36m'
