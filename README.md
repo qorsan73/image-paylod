@@ -88,5 +88,6 @@ If you have any questions or modifications, I will be very pleased when you cont
 Please use this tool without harming people. I am not responsible for any damage or misuse
 
 # To contact the developer:
-
-```telegram: https://t.me/qorsantaez73```
+```
+telegram: https://t.me/qorsantaez73
+```
