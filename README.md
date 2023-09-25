@@ -23,25 +23,27 @@ Tested on termux
 # note
 Works best on kali linux
 # Instructions:
-* apt update && apt upgrade -y
+///
+apt update && apt upgrade -y
 
-* pkg install python2 nmap -y
+pkg install python2 nmap -y
 
-* pip2 install requests 
+pip2 install requests 
 
-* pip2 install colorama 
+pip2 install colorama 
 
-* pkg install python
+pkg install python
 
-* pkg install bash
+pkg install bash
 
-* pkg install git
+pkg install git
 
-* git clone https://github.com/qorsan73/image-paylod
+git clone https://github.com/qorsan73/image-paylod
 
-* cd image-paylod
+cd image-paylod
 
-* bash run.sh
+bash run.sh
+///
 
 # photo
 
