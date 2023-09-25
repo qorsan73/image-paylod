@@ -23,7 +23,7 @@ Tested on termux
 # note
 Works best on kali linux
 # Instructions:
-///
+```
 apt update && apt upgrade -y
 
 pkg install python2 nmap -y
@@ -43,7 +43,7 @@ git clone https://github.com/qorsan73/image-paylod
 cd image-paylod
 
 bash run.sh
-///
+```
 
 # photo
 
@@ -89,4 +89,4 @@ Please use this tool without harming people. I am not responsible for any damage
 
 # To contact the developer:
 
-telegram: https://t.me/qorsantaez73
+```telegram: https://t.me/qorsantaez73```
